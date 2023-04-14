@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "L L",
+        "TIT"
+    ],
+    "key": {
+        "T": {
+            "item": "toastercraft:toaster"
+        },
+        "I": {
+            "item": "minecraft:iron_boots"
+        },
+        "L": {
+        	"item": "minecraft:leather"
+        }
+    },
+    "result": {
+    	"item": "toastercraft:toaster_shoes",
+    	"count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"block.toastercraft.toaster": "Toaster",
+
+	"item.toastercraft.toaster": "Toaster",
+	"item.toastercraft.bread_slice": "Slice of Bread",
+	"item.toastercraft.toast_slice": "Slice of Toast",
+	"item.toastercraft.toaster_sword": "Benjamin Franklin's Health and Safety Rod",
+	"item.toastercraft.toaster_shoes": "The Carbon Footprint",
+	"item.toastercraft.toaster_arrow": "Toaster Bombs",
+	"item.toastercraft.toaster_launcher": "T0457",
+	
+	"itemGroup.toastercraft.toaster_craft": "Toaster Craft",
+	
+	"subtitle.toaster_up": "Toaster pops up",
+	"subtitle.toaster_down": "Toaster pressed down"
+}
